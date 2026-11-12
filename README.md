@@ -1,7 +1,7 @@
 # cmrsf
 Relatório de Execução do Protocolo de Comunicações Móveis e Redes Sem Fios
 
-![cmrsf-relatorio_page-0001](./img/cmrsf-relatorio_page-0002.jpg)
+![cmrsf-relatorio_page-0001](./img/cmrsf-relatorio_page-0001.jpg)
 ![cmrsf-relatorio_page-0002](./img/cmrsf-relatorio_page-0002.jpg)
 ![cmrsf-relatorio_page-0003](./img/cmrsf-relatorio_page-0003.jpg)
 ![cmrsf-relatorio_page-0004](./img/cmrsf-relatorio_page-0004.jpg)
